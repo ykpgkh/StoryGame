@@ -1,9 +1,6 @@
 '''
 The GUI view for the Calvin Story game
 Author: Young Kwang Park
-
-Portions of the CountryGuessGame made by Professor Keith Vander Linden, of Calvin College
-were referenced to help build this GUI
 '''
 from tkinter import *
 
